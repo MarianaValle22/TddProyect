@@ -1,0 +1,34 @@
+# Ignorar carpeta compilada por Maven
+/target/
+
+# Archivos y carpetas de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos y carpetas de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos generados por Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos del sistema operativo 
+.DS_Store
+Thumbs.db
+
+# Archivos de logs temporales
+*.log
+
+# Archivos de pruebas temporales
+*.swp
+*.swo
+*~
+
+# Archivos de backup
+*.bak
+*.tmp
