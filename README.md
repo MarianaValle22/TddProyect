@@ -11,4 +11,4 @@ Este proyecto implementa un sistema de registro de votantes utilizando el enfoqu
 
 ---
 ## Resultados
-![Resulatdos](img/Resultado_TddProject.png)
+![Resulatdos](img/Resultados_TddProject.png)
